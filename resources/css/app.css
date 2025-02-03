@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient-bg {
+    background: linear-gradient(130deg, #f0fdf4 0%, #e0f2fe 100%);
+  }
+.phone-shadow {
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+  }
